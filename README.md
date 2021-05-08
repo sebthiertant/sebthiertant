@@ -4,14 +4,13 @@
 <h1>Welcome to my Github Profile !</h1>
 <h4>I'm a junior front-end developper :computer: actually learning on <a href="https://www.cefim.eu/" target="_blank"> CEFIM (Tours, France).</a></h4>
 
-<h4> My current skills are : </h4>
+<h3> My current skills are : </h3>
 
-- HTML/CSS :speech_balloon:
-- Sass :file_folder:
-- Javascript :eyes:
-- ReactJs :goat:
-- NodeJs :key:
-- Wordpress :snowflake:
+- <h4>HTML/CSS :speech_balloon:</h4>
+- <h4>SASS :file_folder:</h4>
+- <h4>JAVASCRIPT :eyes:</h4>
+- <h4>REACTJS :goat:</h4>
+- <h4>NODEjs :key:</h4>
 
 
-Feel free to contact me whatever you want to talk about ! :smile:
+<em>Feel free to contact me whatever you want to talk about ! :smile:</em>
