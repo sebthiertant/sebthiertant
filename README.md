@@ -10,7 +10,7 @@
 - <h4>SASS :file_folder:</h4>
 - <h4>JAVASCRIPT :eyes:</h4>
 - <h4>REACTJS :goat:</h4>
-- <h4>NODEjs :key:</h4>
+- <h4>NODEJS :key:</h4>
 
 
 <em>Feel free to contact me whatever you want to talk about ! :smile:</em>
