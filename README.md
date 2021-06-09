@@ -1,6 +1,6 @@
 [![codewars](https://www.codewars.com/users/betrayal/badges/micro)](https://www.codewars.com/)
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
 
 <h1>Welcome to my Github Profile !</h1>
 <h4>I'm a junior front-end developper :computer: actually learning on <a href="https://www.cefim.eu/" target="_blank"> CEFIM (Tours, France).</a></h4>
