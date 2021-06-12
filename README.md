@@ -9,7 +9,7 @@
 
 - <h4>HTML/CSS :speech_balloon:</h4>
 - <h4>SASS :file_folder:</h4>
-- <h4>JAVASCRIPT :eyes:</h4>
+- <h4>JAVASCRIPT/TYPESCRIPT :eyes:</h4>
 - <h4>REACTJS :goat:</h4>
 - <h4>NODEJS :key:</h4>
 
