@@ -9,7 +9,7 @@
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/SebThiertant)
 
 <br>
-<br>
+
 
 <h1>Welcome to my Github Profile !</h1>
 <h4>I'm a junior front-end developper :computer: actually learning on <a href="https://www.cefim.eu/" target="_blank"> CEFIM (Tours, France).</a></h4>
