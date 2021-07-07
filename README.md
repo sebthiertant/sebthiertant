@@ -23,6 +23,7 @@
 - <h4>JAVASCRIPT/TYPESCRIPT :eyes:</h4>
 - <h4>REACTJS :goat:</h4>
 - <h4>NODEJS :key:</h4>
+- <h4>MYSQL BASIS :abacus:</h4>
 - <h4>TECH WATCH :eyes:</h4>
 
 
