@@ -31,5 +31,7 @@
 
 <em>Feel free to contact me whatever you want to talk about ! :smile:</em>
 
+<br>
+<br>
 
 <a href="https://app.daily.dev/SebThiertant"><img src="https://api.daily.dev/devcards/3ece8d05ee7749c48d365da313833f53.png?r=n0r" width="400" alt="Sébastien Thiertant's Dev Card"/></a>
