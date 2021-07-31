@@ -13,7 +13,7 @@
 
 <h1>Welcome to my Github Profile !</h1>
 <h4>I'm a junior front-end developper :computer: actually learning on <a href="https://www.cefim.eu/" target="_blank"> CEFIM (Tours, France).</a></h4>
-
+I'm currently looking for an alternation contract to allow me to continue my learning from 11/22/2021 to 11/22/2022.
 <br>
 
 <h3> My current skills are : </h3>
