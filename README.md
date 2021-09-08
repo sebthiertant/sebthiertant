@@ -18,12 +18,11 @@ I'm currently looking for an <strong> alternation contract </strong> to allow me
 
 <h3> My current skills are : </h3>
 
-- <h4>HTML/CSS :speech_balloon:</h4>
-- <h4>SASS :file_folder:</h4>
+- <h4>HTML/CSS/SASS :speech_balloon:</h4>
 - <h4>JAVASCRIPT/TYPESCRIPT :eyes:</h4>
-- <h4>REACTJS :goat:</h4>
-- <h4>NODEJS :key:</h4>
-- <h4>MYSQL BASIS :abacus:</h4>
+- <h4>REACTJS/VUEJS :goat:</h4>
+- <h4>NODEJS/SYMFONY :key:</h4>
+- <h4>MYSQL :abacus:</h4>
 - <h4>TECH WATCH :eyes:</h4>
 
 
