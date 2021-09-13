@@ -12,7 +12,7 @@
 
 
 <h1>Welcome to my Github Profile !</h1>
-<h4>I'm a junior front-end developper :computer: actually learning on <a href="https://www.cefim.eu/" target="_blank"> CEFIM (Tours, France).</a></h4>
+<h4>I'm a junior front-end developper :computer: actually learning on <a href="https://www.cefim.eu/" target="_blank"> CEFIM </a>(Tours, France) and working in <a href="https://www.linkedin.com/company/iremos-sas/mycompany/" target="_blank" > IREMOS.</a></h4>
 I'm currently looking for an <strong> alternation contract </strong> to allow me to continue my learning from 11/22/2021 to 11/22/2022.
 <br>
 
