@@ -1,4 +1,4 @@
-[![codewars](https://www.codewars.com/users/betrayal/badges/micro)](https://www.codewars.com/)
+[![codewars](https://www.codewars.com/users/sebthiertant/badges/micro)](https://www.codewars.com/)
 <br><br>
 [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
 <br>
