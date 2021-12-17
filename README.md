@@ -12,7 +12,7 @@
 
 
 <h1>Welcome to my Github Profile !</h1>
-<h4>I'm a junior front-end developper :computer: actually learning on <a href="https://www.cefim.eu/" target="_blank"> CEFIM </a>(Tours, France) and working in <a href="https://www.linkedin.com/company/iremos-sas/mycompany/" target="_blank" > IREMOS.</a></h4>
+<h4>I'm a full-stack developper :computer: actually learning on <a href="https://www.cefim.eu/" target="_blank"> CEFIM </a>(Tours, France) and working in <a href="https://www.linkedin.com/company/iremos-sas/mycompany/" target="_blank" > IREMOS.</a></h4>
 <br>
 
 <h3> My current skills are : </h3>
@@ -23,7 +23,8 @@
 - <h4>NODEJS/SYMFONY :key:</h4>
 - <h4>MYSQL :abacus:</h4>
 - <h4>TECH WATCH :eyes:</h4>
-
+- <h4>JAVA 🎺</h4>
+- <h4>PYTHON/MACHINE LEARNING 🐍</h4>
 
 <br>
 
