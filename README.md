@@ -20,11 +20,12 @@
 - <h4>HTML/CSS/SASS :speech_balloon:</h4>
 - <h4>JAVASCRIPT/TYPESCRIPT :eyes:</h4>
 - <h4>REACTJS/VUEJS :goat:</h4>
-- <h4>NODEJS/SYMFONY :key:</h4>
-- <h4>MYSQL :abacus:</h4>
+- <h4>NODEJS :key:</h4>
+- <h4>SYMFONY :key:</h4>
+- <h4>MYSQL :see_no_evil:</h4>
 - <h4>TECH WATCH :eyes:</h4>
 - <h4>JAVA 🎺</h4>
-- <h4>PYTHON/MACHINE LEARNING 🐍</h4>
+- <h4>DEEP LEARNING/AI 🐍</h4>
 
 <br>
 
