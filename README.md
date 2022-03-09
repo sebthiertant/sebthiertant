@@ -13,6 +13,7 @@
 
 <h1>Welcome to my Github Profile !</h1>
 <h4>I'm a full-stack developper :computer: actually learning on <a href="https://www.cefim.eu/" target="_blank"> CEFIM </a>(Tours, France) and working in <a href="https://www.linkedin.com/company/iremos-sas/mycompany/" target="_blank" > IREMOS.</a></h4>
+<h5>My approach is agnostic and based on algorithms. Challenges awake my curiosity to an infinite and funny learn.</h5>
 <br>
 
 <h3> My current skills are : </h3>
