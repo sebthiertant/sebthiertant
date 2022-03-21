@@ -1,6 +1,7 @@
 [![codewars](https://www.codewars.com/users/sebthiertant/badges/micro)](https://www.codewars.com/)
 <br><br>
-[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-vue.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 <br>
 <br>
 
