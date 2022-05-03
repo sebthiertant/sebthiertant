@@ -12,19 +12,6 @@
 <h4>I'm a full-stack developper :computer: actually learning on <a href="https://www.cefim.eu/" target="_blank"> CEFIM </a>(Tours, France) and working in <a href="https://www.linkedin.com/company/iremos-sas/mycompany/" target="_blank" > IREMOS.</a></h4>
 <h5>My approach is agnostic and based on algorithms. Challenges awake my curiosity to an infinite and funny learn.</h5>
 <br>
-
-<h3> My current skills are : </h3>
-
-- <h4>HTML/CSS/SASS :speech_balloon:</h4>
-- <h4>JAVASCRIPT/TYPESCRIPT :eyes:</h4>
-- <h4>REACTJS/VUEJS :goat:</h4>
-- <h4>NODEJS :key:</h4>
-- <h4>SYMFONY :key:</h4>
-- <h4>MYSQL :see_no_evil:</h4>
-- <h4>TECH WATCH :eyes:</h4>
-- <h4>JAVA 🎺</h4>
-- <h4>DEEP LEARNING/AI 🐍</h4>
-
 <br>
 
 <em>Feel free to contact me whatever you want to talk about ! :smile:</em>
@@ -32,4 +19,13 @@
 <br>
 <br>
 
-<a href="https://app.daily.dev/SebThiertant"><img src="https://api.daily.dev/devcards/3ece8d05ee7749c48d365da313833f53.png?r=zs9" width="400" alt="Sébastien Thiertant's Dev Card"/></a>
+![Sebthiertant's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebthiertant&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebthiertant&hide=css,html,scss&layout=compact&theme=radical)](https://github.com/sebthiertant/sebthiertant/edit/main/README.md)
+
+
+
+<div display='flex' align='center'>
+  <a href="https://app.daily.dev/SebThiertant">
+    <img src="https://api.daily.dev/devcards/3ece8d05ee7749c48d365da313833f53.png?r=zs9" width="400" alt="Sébastien Thiertant's Dev Card"/>
+  </a>
+</div>
