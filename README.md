@@ -23,9 +23,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebthiertant&hide=css,html,scss&layout=compact&theme=radical)](https://github.com/sebthiertant/sebthiertant/edit/main/README.md)
 
 
-
 <div display='flex' align='center'>
   <a href="https://app.daily.dev/SebThiertant">
-    <img src="https://api.daily.dev/devcards/3ece8d05ee7749c48d365da313833f53.png?r=zs9" width="400" alt="Sébastien Thiertant's Dev Card"/>
+    <img src="https://api.daily.dev/devcards/3ece8d05ee7749c48d365da313833f53.png?r=da1" width="400" alt="Sébastien Thiertant's Dev Card"/>
   </a>
 </div>
