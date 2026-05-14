@@ -63,8 +63,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sebthiertant&show_icons=true&theme=radical&rank_icon=github&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebthiertant&hide=css,html,scss&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.anuraghazra.dev/api?username=sebthiertant&show_icons=true&theme=radical&rank_icon=github&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.anuraghazra.dev/api/top-langs/?username=sebthiertant&hide=css,html,scss&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
