@@ -12,9 +12,6 @@
   <a href="https://www.linkedin.com/in/s%C3%A9bastien-thiertant-715751bb/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
-  <a href="https://twitter.com/SebThiertant">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>&nbsp;
   <a href="https://npmrunseb.com">
     <img src="https://img.shields.io/badge/Blog-npmrunseb.com-6e40c9?style=for-the-badge&logo=astro&logoColor=white" alt="Blog" />
   </a>&nbsp;
